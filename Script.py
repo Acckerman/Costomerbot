@@ -17,15 +17,16 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I have more than 1 million 
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
-╔════❰ Walter white ❱═❍⊱❁۪۪
+╔════❰ ഇത്തിക്കര പക്കി ❱═❍⊱❁۪۪
 ║ ┏━━━━━━━━━━━━━━━➣
 ║ ┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-║ ┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ✨ <a href=https://t.me/Acckerman_offical>Acckerman</a> ✨
-║ ┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+║ ┣⪼ OWNER: ✨ <a href=https://t.me/Sahil_leo></Sahil> ✨
+║ ┣⪼ DEVELOPER: ✨ <a href=https://t.me/Acckerman_offical></Acckerman> ✨
+║ ┣⪼ MAIN CHANNEL: ✨ <a href=https://t.me/Malyalam_Mallu_Movies></Malyalam_movies> ✨
 ║ ┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║ ┣⪼ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ║ ┣⪼ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
-║ ┣⪼ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ K2m Network ]
+║ ┣⪼ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ malyalam movies ]
 ║ ┗━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     SOURCE_TXT = """<b>Acckerman is an open source project</b>
