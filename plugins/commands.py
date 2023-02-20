@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🔔 Creat bot 🤖', url='https://telegram.me/Acckerman_offical')
+                InlineKeyboardButton('🔔 DEVELOPER 🤖', url='https://telegram.me/Acckerman_offical')
             ],
             [
-                InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/k2m_movies_series"),
+                InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+QzI-QDMyFe45OTk0"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/k2m_movies_series"),
-            InlineKeyboardButton('🔔 create bot 🤖', url='https://t.me/Acckerman_offical')
+            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+QzI-QDMyFe45OTk0"),
+            InlineKeyboardButton('🔔 DEVELOPER 🤖', url='https://t.me/Acckerman_offical')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/k2m_movies_series"),
-            InlineKeyboardButton('🔔 create bot 🤖', url='https://t.me/Acckerman_offical')
+            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+QzI-QDMyFe45OTk0"),
+            InlineKeyboardButton('🔔 DEVELOPER 🤖', url='https://t.me/Acckerman_offical')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
