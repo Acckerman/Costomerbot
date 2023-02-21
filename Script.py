@@ -20,9 +20,9 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I have more than 1 million 
 ╔════❰ ഇത്തിക്കര പക്കി ❱═❍⊱❁۪۪
 ║ ┏━━━━━━━━━━━━━━━➣
 ║ ┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-║ ┣⪼ OWNER: ✨ <a href=https://t.me/Sahil_leo></Sahil> ✨
-║ ┣⪼ DEVELOPER: ✨ <a href=https://t.me/Acckerman_offical></Acckerman> ✨
-║ ┣⪼ MAIN CHANNEL: ✨ <a href=https://t.me/Malyalam_Mallu_Movies></Malyalam_movies> ✨
+║ ┣⪼ OWNER: ✨ <a href=https://t.me/Sahil_leo>Sahil</a> ✨
+║ ┣⪼ DEVELOPER: ✨ <a href=https://t.me/Acckerman_offical>Acckerman</a> ✨
+║ ┣⪼ MAIN CHANNEL: ✨ <a href=https://t.me/Malyalam_Mallu_Movies>Malyalam_movies</a> ✨
 ║ ┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║ ┣⪼ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ║ ┣⪼ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
