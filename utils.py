@@ -384,8 +384,8 @@ def humanbytes(size):
         link = link.replace("http", https)
 
     url = f''
-    params = {'api': URL_SHORTNER_WEBSITE_API,
-              'url': link,
+    params = {'api': ,
+              'url': ,
                }
             
             
@@ -397,11 +397,11 @@ def humanbytes(size):
                     return data['shortenedUrl']
                 else:
                     logger.error(f"Error: {data['message']}")
-                    return f'link'
+                    return f''
 
     except Exception as e:
         logger.error(e)
-        return f'link'
+        return f''
 
     
             
